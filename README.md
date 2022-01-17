@@ -1,4 +1,4 @@
-This repository contains data used in the paper `A Taxonomy of HTML5 Canvas Bugs` submitted to TheWebConf2022.
+This repository contains data used in the paper `A Taxonomy of HTML5 Canvas Bugs`.
 
 Our methodology for data collection is detailed in the paper.
 
