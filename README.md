@@ -1,7 +1,5 @@
 This repository contains data used in the paper `A Taxonomy of HTML5 Canvas Bugs`.
 
-Our methodology for data collection is detailed in the paper.
-
 **Data description:**
 
 | file name                      | description                                                         | fields        |
